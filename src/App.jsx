@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { MapPin, Phone, ChevronRight, Star } from 'lucide-react';
 import sampleImage from '../public/sample.png';
-import image from '../public/image.png'
-import image1 from '/home/user/weather-forecast/public/20250513_1219_Barbershop and Salon_simple_compose_01jv46cdgxfj2tb2ax3jgfxkjc.png'
+
+
 import './App.css';
 
 const services = [
