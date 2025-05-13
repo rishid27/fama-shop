@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { MapPin, Phone, ChevronRight, Star } from 'lucide-react';
 import sampleImage from '../public/sample.png';
+import image from '../public/image.png'
 import './App.css';
 
 const services = [
@@ -40,7 +41,7 @@ const BarberShopWebsite = () => {
       <header className="header">
         <div className="header-content">
         <h1 className="logo">
-  <img src='../public/image.png' alt="Fama Barber Shop & Beauty Salon Logo" />
+  <img src="/image.png" alt="Fama Barber Shop & Beauty Salon Logo" />
   
 </h1><span>Fama Barber Shop & Beauty Salon</span>
           <nav className="nav">
