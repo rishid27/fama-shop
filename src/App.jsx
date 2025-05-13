@@ -42,7 +42,7 @@ const BarberShopWebsite = () => {
       <header className="header">
         <div className="header-content">
         <h1 className="logo">
-  <img src={image} alt="Fama Barber Shop & Beauty Salon Logo" />
+  <img src='/image.png' alt="Fama Barber Shop & Beauty Salon Logo" />
   
 </h1><span>Fama Barber Shop & Beauty Salon</span>
           <nav className="nav">
@@ -217,16 +217,16 @@ const BarberShopWebsite = () => {
   <p className="section-subtitle">Explore the style and atmosphere at Fama Barber Shop & Beauty Salon.</p>
   <div className="gallery-grid">
     <div className="gallery-item">
-      <img src="/public/20250513_1528_Barber and Salon Interiors_simple_compose_01jv4h7c3yexz8ze9048ssc1d7.png" alt="Barbering in Action" className="gallery-image" />
+      <img src="public/20250513_1528_Barber and Salon Interiors_simple_compose_01jv4h7c3yexz8ze9048ssc1d7.png" alt="Barbering in Action" className="gallery-image" />
     </div>
     <div className="gallery-item">
-      <img src="/public/20250513_1528_Barber and Salon Interiors_simple_compose_01jv4h7c3xe9ksr2x6xqxhgwk9.png" alt="Haircut Styles" className="gallery-image" />
+      <img src="public/20250513_1528_Barber and Salon Interiors_simple_compose_01jv4h7c3xe9ksr2x6xqxhgwk9.png" alt="Haircut Styles" className="gallery-image" />
     </div>
     <div className="gallery-item">
-      <img src="/public/20250513_1219_Barbershop and Salon_simple_compose_01jv46cdgye3fvjdqkmad58y1w.png" alt="Barber Shop Interior" className="gallery-image" />
+      <img src="public/20250513_1219_Barbershop and Salon_simple_compose_01jv46cdgye3fvjdqkmad58y1w.png" alt="Barber Shop Interior" className="gallery-image" />
     </div>
     <div className="gallery-item">
-      <img src="/public/20250513_1219_Barbershop and Salon_simple_compose_01jv46cdgxfj2tb2ax3jgfxkjc.png" alt="Beard Styling" className="gallery-image" />
+      <img src="public/20250513_1219_Barbershop and Salon_simple_compose_01jv46cdgxfj2tb2ax3jgfxkjc.png" alt="Beard Styling" className="gallery-image" />
     </div>
     
   </div>
